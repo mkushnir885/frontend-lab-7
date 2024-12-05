@@ -1,0 +1,24 @@
+.goods-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  text-align: center;
+  width: 250px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.goods-card_image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.goods-card_name {
+  font-size: 1.2rem;
+  margin: 8px 0;
+}
+
+.goods-card_price {
+  color: #2a9d8f;
+  font-weight: bold;
+}
