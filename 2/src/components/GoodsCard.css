@@ -5,6 +5,11 @@
   text-align: center;
   width: 250px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s;
+}
+
+.goods-card:hover {
+  transform: scale(1.1);
 }
 
 .goods-card_image {
